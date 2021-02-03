@@ -1,0 +1,21 @@
+{
+  "name": "com.playfab.unitysdk",
+  "version": "2.103.1",
+  "displayName": "PlayFab SDK",
+  "description": "Unity C# SDK for PlayFab",
+  "keywords": [
+    "playfab"
+  ],
+  "author": {
+    "name": "PlayFab",
+    "url": "https://playfab.com/"
+  },
+  "samples": [
+    {
+      "displayName": "ExampleTestProject",
+      "description": "Basic PlayFab tests. For more advanced samples, see https://github.com/PlayFab/PlayFab-Samples",
+      "path": "Samples~/ExampleTestProject"
+    }
+  ],
+  "type": "library"
+}
